@@ -37,9 +37,7 @@ heading.style.fontSize = "2em";
 
 //Question 4.
 
-console.dir(heading.className);
-
-heading.className = "updatedHeading";
+heading.className = "subheading";
 
 //Question 5.
 
