@@ -65,15 +65,17 @@ const cats = [
     }
 ];
 
-//function createList(list) {
-   // console.log(list);
-//}
 
-//createList
+function createList (list) {
     
-//for(let i = 0; i < list.length; i++) {
-  //console.log(list[i]);
-//}
+    for(let i = 0; i < list.length; i++) {
+        console.log(list[i].name);
+    }
+}
+
+createList(cats);
+        
+
 
 //Question 8.
 
